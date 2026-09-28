@@ -1,5 +1,4 @@
 console. log( " Sistema iniciado correctamente. ") ;
 function saludar( ) {
-document. getElementById( " mensaj e") . innerText = " Hola usuario invitado. ";
-}
+document.getElementById("mensaje").innerText = "Bienvenido,usuario VIP de la rama.";
 saludar( ) ;
