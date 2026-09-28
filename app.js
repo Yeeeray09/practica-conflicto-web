@@ -1,4 +1,5 @@
-console. log( " Sistema iniciado correctamente. ") ;
-function saludar( ) {
-document.getElementById("mensaje").innerText = "Acceso restringido. Por favor,identifiquese.";
-saludar( ) ;
+console.log("Sistema iniciado correctamente.");
+function saludar() {
+document.getElementById("mensaje").innerText = "Bienvenido, usuario VIP de la rama.";
+}
+saludar();
